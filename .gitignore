@@ -7,3 +7,6 @@
 
 # .tfvars files
 *.tfvars
+
+#go lock file
+Gopkg.lock
